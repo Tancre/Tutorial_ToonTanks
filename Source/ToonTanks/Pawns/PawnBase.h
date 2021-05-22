@@ -6,10 +6,18 @@
 #include "GameFramework/Pawn.h"
 #include "PawnBase.generated.h"
 
+class UCapsuleComponent;
+
 UCLASS()
 class TOONTANKS_API APawnBase : public APawn
 {
 	GENERATED_BODY()
+
+private:
+	UCapsuleComponent *CapsuleComponent;
+	UStaticMeshComponent *BaseMesh;
+	UStaticMeshComponent *TurretMesh;
+	USceneComponent *ProjectileSpawnPoint;
 
 public:
 	// Sets default values for this pawn's properties
