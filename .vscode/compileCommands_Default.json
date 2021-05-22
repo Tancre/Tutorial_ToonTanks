@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\outis\\\\Documents\\\\Tutorials\\\\UNREAL_C\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Pawns\\\\PawnBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\outis\\Documents\\Tutorials\\UNREAL_C\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\outis\\\\Documents\\\\Tutorials\\\\UNREAL_C\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\Pawns\\\\PawnBase.h",
+		"command": "cl.exe @\"C:\\Users\\outis\\Documents\\Tutorials\\UNREAL_C\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\outis\\\\Documents\\\\Tutorials\\\\UNREAL_C\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\outis\\Documents\\Tutorials\\UNREAL_C\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\outis\\\\Documents\\\\Tutorials\\\\UNREAL_C\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.cpp",
+		"command": "cl.exe @\"C:\\Users\\outis\\Documents\\Tutorials\\UNREAL_C\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\outis\\\\Documents\\\\Tutorials\\\\UNREAL_C\\\\ToonTanks\\\\Source\\\\ToonTanks\\\\ToonTanks.h",
+		"command": "cl.exe @\"C:\\Users\\outis\\Documents\\Tutorials\\UNREAL_C\\ToonTanks\\.vscode\\compileCommands_Default\\ToonTanks.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
