@@ -12,7 +12,11 @@
             "intelliSenseMode": "msvc-x64",
             "compileCommands": "C:\\Users\\outis\\Documents\\Tutorials\\UNREAL_C\\ToonTanks\\.vscode\\compileCommands_Default.json",
             "cStandard": "c17",
-            "cppStandard": "c++17"
+            "cppStandard": "c++17",
+            "includePath": [
+                "${default}",
+                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Core/Public"
+            ]
         }
     ],
     "version": 4
