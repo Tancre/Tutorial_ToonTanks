@@ -15,7 +15,8 @@
             "cppStandard": "c++17",
             "includePath": [
                 "${default}",
-                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Core/Public"
+                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Core/Public",
+                "C:/Program Files/Epic Games/UE_4.26/Engine/Source/Runtime/Engine/Classes"
             ]
         }
     ],

@@ -20,6 +20,18 @@ private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "True"));
 	UCameraComponent *Camera;
 
+	FVector MoveDirection;
+	FQuat RotationDirection;
+
+	float MoveSpeed = 100.0f;
+	float RotateSpeed = 100.0f;
+
+	void Calcu lateMoveInput(float Value);
+	void CalculateRotateInput(float value);
+
+	void Move();
+	void Rotate();
+
 public:
 	APawnTank();
 
